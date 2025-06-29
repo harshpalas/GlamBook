@@ -1,6 +1,6 @@
-# Glam10
+# GlamBook
 
-Glam10 is a modern, full-stack salon and beauty service booking platform. It enables users to discover salons, book appointments, manage their bookings, and interact with salon professionals. The platform also provides an admin dashboard for salon owners and staff to manage services, bookings, and customer engagement.
+GlamBook is a modern, full-stack salon and beauty service booking platform. It enables users to discover salons, book appointments, manage their bookings, and interact with salon professionals. The platform also provides an admin dashboard for salon owners and staff to manage services, bookings, and customer engagement.
 
 ---
 
